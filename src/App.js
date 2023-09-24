@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <CurrentLocation />
       </div>
-      <div className="footer-info">
+      <div className="footer-info">Developed By:
         <a href="https://www.linkedin.com/in/lakshay-aggarwal-8a503120b/" target="blank">
          Lakshay Aggarwal
         </a>
